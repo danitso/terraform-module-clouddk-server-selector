@@ -1,7 +1,5 @@
 # Server Selector for Cloud.dk
-Terraform Module for selecting a Cloud.dk server package based on hardware requirements
-
-_**NOTE**: This module is currently under development._
+Terraform Module for selecting a Cloud.dk server package based on hardware requirements.
 
 # Requirements
 - [Terraform](https://www.terraform.io/downloads.html) 0.12+
