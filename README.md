@@ -1,4 +1,4 @@
-# Server Selector for Cloud.dk
+# Server Selector
 Terraform Module for selecting a Cloud.dk server package based on hardware requirements.
 
 # Requirements
