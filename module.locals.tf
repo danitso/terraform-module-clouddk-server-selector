@@ -43,15 +43,15 @@ locals {
     ""
   }"
   server_types = [
-    "clouddk.s1",
-    "clouddk.s2",
-    "clouddk.s3",
-    "clouddk.s4",
-    "clouddk.s5",
-    "clouddk.s6",
-    "clouddk.s7",
-    "clouddk.s8",
-    "clouddk.s9",
-    "clouddk.s10",
+    "ac949a1cb4731d",
+    "89833c1dfa7010",
+    "0469d586374e76",
+    "e991abd8ef15c7",
+    "489b7df86d4b76",
+    "9559dbb4b71c45",
+    "ebf313a9994c1e",
+    "86fa7f6209ba2a",
+    "25848db6009838",
+    "115f1d99e8e9e4",
   ]
 }
