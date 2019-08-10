@@ -10,7 +10,7 @@ Terraform Module for selecting a Cloud.dk server package based on hardware requi
 
     ```hcl
     module "server_selector" {
-        source = "github.com/danitso/terraform-module-clouddk-kubernetes-cluster"
+        source = "github.com/danitso/terraform-module-clouddk-server-selector"
 
         server_memory     = 4096
         server_processors = 2
