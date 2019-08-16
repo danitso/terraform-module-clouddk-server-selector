@@ -4,8 +4,10 @@
 
 variable "server_memory" {
   description = "The minimum amount of memory (in megabytes)"
+  type        = number
 }
 
 variable "server_processors" {
   description = "The minimum number of processors (cores)"
+  type        = number
 }
